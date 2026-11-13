@@ -2,7 +2,7 @@
 
 ### FRESHER WEB DEV 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axo10&label=Profile views&color=0e75b6&style=flat" alt="axo10" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=axo10&label=Profile views&color=0e75b6&style=flat](https://www.vecteezy.com/vector-art/16833872-github-logo-git-hub-icon-on-white-background)" alt="axo10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axo10" alt="axo10" /></a> </p>
 
